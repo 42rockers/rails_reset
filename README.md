@@ -1,4 +1,4 @@
-# RailsReset [![Build Status](https://secure.travis-ci.org/42rockers/rails_reset.png?branch=master)](http://travis-ci.org/42rockers/rails_reset)
+# RailsReset [![Build Status](https://secure.travis-ci.org/42rockers/rails_reset.png?branch=master)](http://travis-ci.org/42rockers/rails_reset) [![Code Climate](https://codeclimate.com/github/42rockers/rails_reset.png)](https://codeclimate.com/github/42rockers/rails_reset)
 
 Reset your development and test environment with one simple rake task.
 
